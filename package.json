@@ -19,7 +19,7 @@
     "@mui/icons-material": "^5.4.4",
     "@mui/lab": "^5.0.0-alpha.73",
     "@mui/material": "^5.4.4",
-    "axios": "^0.21.2",
+    "axios": "^1.2.1",
     "notistack": "^2.0.3",
     "plotly.js-dist-min": "^2.11.1",
     "react": "^17.0.2",
